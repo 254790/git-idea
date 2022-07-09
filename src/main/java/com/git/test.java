@@ -5,5 +5,7 @@ public class test {
         System.out.println("hello");
         System.out.println("hot 1.0");
 
+        System.out.println("master 2.0");
+
     }
 }
